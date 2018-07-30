@@ -1,0 +1,6 @@
+framework module Pods_Twitter_API_OAuth_Test {
+  umbrella header "Pods-Twitter API OAuth Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
